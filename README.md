@@ -17,5 +17,5 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-All required Python packages are listed in `requirements.txt`[1].
+All required Python packages are listed in `requirements.txt`.
 
